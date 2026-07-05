@@ -1,11 +1,11 @@
 {
-    "name": "handheld_demo",
-    "short_name": "handheld_demo",
+    "name": "Counter Handheld Demo",
+    "short_name": "Handheld",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Staff-operated counter handheld demo.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
